@@ -1,0 +1,910 @@
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.config
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.AssemblyReference.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmArtigos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmCategorias.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEntidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEspecialidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMain.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmTipos_Marcação.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.Resources.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmReport.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xFAT01.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xrQI.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.UC_NAV1.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.GenerateResource.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.licenses
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CoreCompileInputs.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CopyComplete
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEmpresas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmListaEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.CodeParser.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Images.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.config
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.CodeParser.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Images.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.AssemblyReference.cache
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmArtigos.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmCategorias.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmDoc.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEmpresas.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEnderecos.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEntidades.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEspecialidades.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmIVA.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmLinhas.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmListaEnderecos.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMain.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMarcações.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmReceitas.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSalas.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSeries.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Doc.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Exames.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmTipos_Marcação.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Pagamento.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.Resources.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmReport.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xFAT01.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xrQI.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.UC_NAV1.resources
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.GenerateResource.cache
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.licenses
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CoreCompileInputs.cache
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CopyComplete
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+\\WREX\Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.AssemblyReference.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmArtigos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmCategorias.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmDoc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEmpresas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEntidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEspecialidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmIVA.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmListaEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMain.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMarcações.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmReceitas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSalas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSeries.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Doc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Exames.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmTipos_Marcação.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Pagamento.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmReport.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xFAT01.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xrQI.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.UC_NAV1.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.GenerateResource.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.Resources.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.licenses
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CoreCompileInputs.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.config
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.CodeParser.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Images.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CopyComplete
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.config
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmArtigos.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmCategorias.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmDoc.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEmpresas.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEnderecos.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEntidades.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEspecialidades.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmIVA.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmListaEnderecos.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMain.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMarcações.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmReceitas.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSalas.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSeries.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Doc.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Exames.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmTipos_Marcação.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Pagamento.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.Resources.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmReport.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xFAT01.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xrQI.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.UC_NAV1.resources
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.licenses
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CopyComplete
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+C:\Users\Leonardo\Desktop\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.AssemblyReference.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.config
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.CodeParser.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Images.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmArtigos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmCategorias.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmDoc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEmpresas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEntidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEspecialidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmIVA.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmListaEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMain.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMarcações.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmReceitas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSalas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSeries.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Doc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Exames.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmTipos_Marcação.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Pagamento.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.Resources.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmReport.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xFAT01.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xrQI.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.UC_NAV1.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.GenerateResource.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.licenses
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CoreCompileInputs.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael (3)\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CopyComplete
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_02_Rafael\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmLogin.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmDoc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmIVA.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmLogin.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMarcações.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSalas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSeries.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Doc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Pagamento.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmDocs.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.AssemblyReference.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmArtigos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmCategorias.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmDoc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmDocs.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEmpresas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmEntidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmEspecialidades.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmIVA.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmListaEnderecos.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmLogin.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMain.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmMarcações.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmReceitas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSalas.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmSeries.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Doc.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.FrmTipos_Marcação.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmTipos_Pagamento.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.Resources.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.frmReport.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xFAT01.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xrQI.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.UC_NAV1.resources
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.GenerateResource.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.licenses
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CoreCompileInputs.cache
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe.config
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.exe
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.pdb
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\PAP_G2_BFFPclinic_01_Rafael.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.CodeParser.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Images.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinGrid.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.UltraWinEditors.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Win.Misc.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\Infragistics4.Shared.v23.1.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Dashboard.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Data.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Drawing.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Map.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Office.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.Xpo.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraBars.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGantt.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Presets.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGauges.v23.2.Win.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraTreeMap.v23.2.UI.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\bin\Debug\DevExpress.XtraWizard.v23.2.xml
+N:\000-Grupo02-I21\03-Programas\PAP_G2_BFFPclinic_01_Rafael - Cópia\PAP_G2_BFFPclinic_01_Rafael\obj\Debug\PAP_G2_BFFPclinic_01_Rafael.vbproj.CopyComplete

@@ -1,0 +1,374 @@
+﻿
+
+Imports System.ComponentModel
+Imports Infragistics.Win.UltraWinGrid
+''' <summary>
+'''      Classe frmEntidades- Form da Tabela de Entidades
+'''      Gerado em 06/01/2023 11:28:24
+''' </summary>
+''' <remarks>
+'''      (c) ETLA - PM-2023
+''' </remarks>
+Public Class frmEntidades
+    Dim mLista As New List(Of ClsEntidades)
+
+    Private Sub frmEntidades_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        mLista = ClsEntidades.GetEntidades
+
+        mNav = New clsNav(mLista.Count)
+
+        cbEntidades.Visible = False
+
+
+        UC_NAV11.mFRM = Me
+
+        SetupComps(True)
+        UC_NAV11.Load_Status()
+        UC_NAV11.SetupNav()
+        LoadRegistos()
+
+        Me.Text = "Manutenção da Tabela de Entidades"
+
+        '-------------------------------
+        'Exemplo de ProgressBar
+        '-------------------------------
+        'upBar.Maximum = mNav.Max_Registos
+        'upBar.Minimum = 1
+        'upBar.Value = mNav.RegistoAtual
+        '-------------------------------
+
+
+        '-------------------------------
+        'Exemplo de Combo...
+        '-------------------------------
+        With cbEntidades
+            .Items.Add("Cliente")
+            .Items.Add("Fornecedor")
+            .Items.Add("Empregado")
+            .SelectedIndex = 0
+        End With
+
+
+        '-----------------
+        'ucPaises
+        '-----------------
+        ucPaises.DataSource = ClsPaises.GetPaises
+        ucPaises.DisplayMember = "Pais"
+        ucPaises.ValueMember = "Cod_Pais"
+
+        '----------------------------------------------------------------------------------------------
+        ' Como se faz um Filtro da Lista de Clientes?
+        ' 
+        ' A mLista que contém a lista de Entidades
+        ' pode ser filtrada através do método
+        ' FiltrarEntidades com o parâmetro da ClsEntidades
+        ' 
+        ' É preciso criar uma variável do tipo ClsEntidades
+        ' e chamar o método FiltrarEntidades com esse parâmetro:
+        '
+        '   Dim mclsFiltro as New clsEntidades with {.Cod_Entidade=txtCod_Entidade.Text, .FLG_Entidade=txtFLG_Entidade.Text}
+        '   Dim mListaFiltro = clsEntidades.FiltrarEntidades(mclsFiltro)
+        '----------------------------------------------------------------------------------------------
+
+        '-----------------
+        'ucPaises
+        '-----------------
+        'ucPaises.DataSource = clsPaises.GetPaises
+        'ucPaises.DisplayMember = "Pais"
+        'ucPaises.ValueMember = "Cod_Pais"
+
+
+    End Sub
+
+
+    Sub SetupComps(ByVal pBool As Boolean)
+        Me.Cod_EntidadeTextEdit.ReadOnly = True
+        Me.cbEntidades.Visible = False
+        If Not pBool Then
+            If Me.UC_NAV11.mNovo Then
+                Me.cbEntidades.Visible = True
+                Me.cbEntidades.Focus()
+            Else
+                Me.NomeTextEdit.Focus()
+            End If
+        End If
+
+        FLG_EntidadeTextEdit.ReadOnly = pBool
+
+        NomeTextEdit.ReadOnly = pBool
+        Cod_PaisTextEdit.ReadOnly = pBool
+
+        PaisTextEdit.ReadOnly = True
+
+        ucPaises.Visible = Not pBool
+
+        Num_TelefoneTextEdit.ReadOnly = pBool
+        Num_TelemovelTextEdit.ReadOnly = pBool
+        EmailTextEdit.ReadOnly = pBool
+        NIFTextEdit.ReadOnly = pBool
+        'Data_RegistoDateEdit.ReadOnly = pBool
+
+        '------------------------------
+        'Exemplo da eventual UltraCmbo 
+        '------------------------------
+        'Me.PaisUltraCombo.ReadOnly = pBool
+
+    End Sub
+
+    Sub LoadRegistos()
+        LimpaTXT()
+        If mNav.Registo_Atual > 0 Then
+            With mLista(mNav.Registo_Atual - 1)
+                FLG_EntidadeTextEdit.Text = .FLG_Entidade
+                NomeTextEdit.Text = .Nome
+                Cod_PaisTextEdit.Text = .Cod_Pais
+                Num_TelefoneTextEdit.Text = .Num_Telefone
+                Num_TelemovelTextEdit.Text = .Num_Telemovel
+                EmailTextEdit.Text = .Email
+                NIFTextEdit.Text = .NIF
+                'Data_RegistoDateEdit.Text = .Data_Registo
+                '-------------------------
+                ' Cod_Entidade
+                '-------------------------
+                Cod_EntidadeTextEdit.Text = .Cod_Entidade
+
+                Me.PaisTextEdit.Text = .Pais
+                Me.ucPaises.Text = .Pais
+
+                Dim mLista_Enderecos As New List(Of ClsEnderecos)
+                mLista_Enderecos = .Lista_Enderecos.FindAll(Function(x) x.FLG_Ativo = True)
+
+                Me.Lista_EnderecosUltraGrid.DataSource = mLista_Enderecos
+                'Me.Lista_EnderecosUltraGrid.ActiveRow = Nothing
+
+                Me.Lista_EnderecosUltraGrid.Refresh()
+
+
+                '-------------------------------
+                'Exemplo para as Combos...
+                '-------------------------------
+                'ucPaises.Text = clsPaises.GetPaisbyCod(.Cod_Pais).Pais
+            End With
+            '-------------------------------
+            'upBar.Value = mNav.Registo_Atual
+            '-------------------------------
+
+        End If
+
+    End Sub
+
+
+
+    Sub LimpaTXT()
+
+        FLG_EntidadeTextEdit.Text = ""
+        NomeTextEdit.Text = ""
+        Cod_PaisTextEdit.Text = ""
+        Num_TelefoneTextEdit.Text = ""
+        Num_TelemovelTextEdit.Text = ""
+        EmailTextEdit.Text = ""
+        NIFTextEdit.Text = ""
+        'Data_RegistoDateEdit.Text = ""
+        '-------------------------------
+        Cod_EntidadeTextEdit.Text = ""
+    End Sub
+
+
+    Sub Grava(ByVal pbNovo As Boolean)
+
+        '----------------------------------
+        'Exemplo de UltraValidate
+        '----------------------------------
+        'UltraValidator1.Validate()
+        '----------------------------------
+
+        Dim mFLG_Gravou As Boolean = False
+        Dim mCls As New ClsEntidades
+        Dim mRegisto_Atual As Integer = mNav.Registo_Atual
+
+        With mCls
+            If pbNovo Then
+                '--------------------------------------
+                'Método Não criado na CLASSE 
+                ' Se for preciso é preciso criá-lo... 
+                '--------------------------------------
+                .Cod_Entidade = ClsEntidades.GetNovoCodigo(FLG_EntidadeTextEdit.Text)
+                '--------------------------------------
+            Else
+                '--------------------------------------
+                ' Se for preciso é preciso criá-lo... 
+                '--------------------------------------
+                .Cod_Entidade = Cod_EntidadeTextEdit.Text
+            End If
+            '----------------------------------
+            'Aqui VERIFICAR Todos os CAMPOS
+            '  Não tem por ex. o FLG_Ativo...
+            '----------------------------------
+            .FLG_Entidade = FLG_EntidadeTextEdit.Text
+            .Nome = NomeTextEdit.Text
+            .Cod_Pais = Cod_PaisTextEdit.Text
+            .Num_Telefone = Num_TelefoneTextEdit.Text
+            .Num_Telemovel = Num_TelemovelTextEdit.Text
+            .Email = EmailTextEdit.Text
+            .NIF = NIFTextEdit.Text
+            .Data_Registo = Date.Now
+        End With
+
+        If pbNovo Then
+            mFLG_Gravou = ClsEntidades.GravaEntidades(mCls)
+        Else
+            mFLG_Gravou = ClsEntidades.ModificaEntidades(mCls)
+        End If
+
+
+        If mFLG_Gravou Then
+            If pbNovo Then
+                Me.UC_NAV11.mNovo = False
+                mLista = ClsEntidades.GetEntidades
+                mNav = New clsNav(mLista.Count)
+                mNav.Registo_Atual = mLista.FindIndex(Function(x) x.Cod_Entidade = mCls.Cod_Entidade) + 1
+                LoadRegistos()
+
+                '---------------------------
+                'upBar.Maximum = mNav.Max_Registos
+                'upBar.Value = mNav.Registo_Atual
+            Else
+                mLista = ClsEntidades.GetEntidades
+                mNav = New clsNav(mLista.Count)
+                mNav.Registo_Atual = mRegisto_Atual
+                LoadRegistos()
+            End If
+        Else
+            MsgBox("Erro na gravação:")
+        End If
+    End Sub
+
+
+    Sub Apaga_Registo()
+        Try
+            ClsEntidades.ApagaEntidades(mLista(mNav.Registo_Atual - 1).Cod_Entidade)
+        Catch ex As Exception
+            MsgBox("Erro a Apagar o Registo Atual" & vbCrLf & ex.Message)
+            Exit Sub
+        End Try
+
+        mLista = ClsEntidades.GetEntidades
+        mNav = New clsNav(mLista.Count)
+        LoadRegistos()
+    End Sub
+
+
+
+    Private Sub ucPaises_AfterCloseUp(sender As Object, e As EventArgs) Handles ucPaises.AfterCloseUp, ucPaises.Leave
+        If ucPaises.ActiveRow Is Nothing Then
+            Me.Cod_PaisTextEdit.Text = "PT"
+            Exit Sub
+        End If
+        Try
+            Me.Cod_PaisTextEdit.Text = ucPaises.ActiveRow.Cells("Cod_Pais").Text
+        Catch ex As Exception
+            Me.Cod_PaisTextEdit.Text = "PT"
+        End Try
+    End Sub
+
+    Private Sub cbEntidades_DropDown(sender As Object, e As EventArgs) Handles cbEntidades.DropDown, cbEntidades.Leave
+        Dim mIndex As Integer = cbEntidades.SelectedIndex
+
+        Select Case mIndex
+            Case enCont.Clientes
+                FLG_EntidadeTextEdit.Text = "C"
+            Case enCont.Fornecedores
+                FLG_EntidadeTextEdit.Text = "F"
+            Case enCont.Fornecedores
+                FLG_EntidadeTextEdit.Text = "E"
+        End Select
+    End Sub
+
+    Private Sub Lista_EnderecosUltraGrid_Click(sender As Object, e As EventArgs) Handles Lista_EnderecosUltraGrid.DoubleClick
+        Dim mFrm As New frmEnderecos
+
+        mFrm.rCod_Entidade = mLista(mNav.Registo_Atual - 1).Cod_Entidade
+
+        If Not Lista_EnderecosUltraGrid.ActiveRow.Cells("Descritivo").Text = "" Then
+            mFrm.rCod_Endereco = Lista_EnderecosUltraGrid.ActiveRow.Cells("Cod_Endereco").Text
+        Else
+            mFrm.rNovo = True
+
+            Dim mContador As Integer = (mLista(mNav.Registo_Atual - 1).Contador_Enderecos + 1)
+
+            mFrm.rCod_Endereco = "E" & mContador.ToString("00")
+        End If
+
+
+        mFrm.ShowDialog()
+        LoadRegistos()
+
+    End Sub
+
+    Private Sub cmAPAGA_Opening(sender As Object, e As CancelEventArgs) Handles cmAPAGA.Opening
+        Dim mBool As Boolean = Lista_EnderecosUltraGrid.ActiveRow.Cells("Descritivo").Text = ""
+
+        tsApagar.Enabled = Not mBool
+        tsModificar.Enabled = Not mBool
+        tsCriar.Enabled = mBool
+
+    End Sub
+    Private Sub tsCriar_Click(sender As Object, e As EventArgs) Handles tsCriar.Click
+        ' Criar Endereco
+        Dim mFrm As New frmEnderecos
+
+        mFrm.rCod_Entidade = mLista(mNav.Registo_Atual - 1).Cod_Entidade
+        mFrm.rNovo = True
+
+        Dim mContador As Integer = (mLista(mNav.Registo_Atual - 1).Contador_Enderecos + 1)
+
+        mFrm.rCod_Endereco = "E" & mContador.ToString("00")
+
+        mFrm.ShowDialog()
+        LoadRegistos()
+    End Sub
+
+    Private Sub tsModificar_Click(sender As Object, e As EventArgs) Handles tsModificar.Click
+        ' Modificar
+        Dim mFrm As New frmEnderecos
+
+        mFrm.rCod_Entidade = mLista(mNav.Registo_Atual - 1).Cod_Entidade
+        mFrm.rCod_Endereco = Lista_EnderecosUltraGrid.ActiveRow.Cells("Cod_Endereco").Text
+
+        mFrm.ShowDialog()
+        LoadRegistos()
+
+    End Sub
+
+    Sub AskApaga()
+        Dim mResult As MsgBoxResult
+
+        mResult = MsgBox("Tem a certeza que quer apagar a Linha?", MsgBoxStyle.YesNo)
+
+        If mResult = MsgBoxResult.Yes Then
+            Apagar_Endereco()
+        End If
+
+    End Sub
+
+    Sub Apagar_Endereco()
+        Dim mCod_Entidade As String = mLista(mNav.Registo_Atual - 1).Cod_Entidade
+        Dim mCod_Endereco As String = Lista_EnderecosUltraGrid.ActiveRow.Cells("Cod_Endereco").Text
+
+        Try
+            ClsEnderecos.ApagaEnderecos(mCod_Entidade, mCod_Endereco)
+        Catch ex As Exception
+            MsgBox("Alguma coisa correu mal..." & vbCrLf & ex.ToString)
+        End Try
+        LoadRegistos()
+    End Sub
+
+    Private Sub tsApagar_Click(sender As Object, e As EventArgs) Handles tsApagar.Click
+        ' Apagar
+        AskApaga
+
+    End Sub
+
+
+End Class

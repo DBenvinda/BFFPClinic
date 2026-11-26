@@ -1,0 +1,2671 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PAP_G2_BFFPclinic_01_Rafael
+</name>
+</assembly>
+<members>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources._14">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Adicionar_um_subtítulo__5__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.ApagaLinha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.backward_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Captura_Web_30_1_2024_121624_www_bing_com">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.corclara">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.corclara2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.corfundoesc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.corfundoesc2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.corfundoesc21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.cormenosesc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.cormenosesc2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.document_edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Etla___Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Fotografiadefault">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Fretes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.fundo_login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.fundo_login3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.fundocinza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.ICON_091">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.image_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.image_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.lblverde">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.lblverdeXL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo_img_cut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo_img_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo_img_removebg_preview__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo_Original_Branco_PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logo_Original_Fundo_maisclaro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logobrancomelhor_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logosfundo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.logosfundo21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.no_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.OlhoA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.OlhoF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Portes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.rounded_in_photoretrica__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Sandra_Magalhães">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Seguros">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAP_G2_BFFPclinic_01_Rafael.My.Resources.Resources.Shade2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsAppointments">
+ <summary>
+      Classe ClsAppointments Classe da Tabela Appointments
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsAppointments.GetAppointments">
+ <summary>
+      Function GetAppointments() Método para devolver a Lista de Appointments
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      mListaAppointments
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsAppointments.GetAppointmentsByCod_Marcacao(System.String)">
+ <summary>
+      Function GetAppointmentsByCod(ByVal pUniqueID As Integer) Método para decolver uma Classe de Appointments
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      mClsAppointments
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+ 
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsAppointments.ModificaAppointments(PAP_G2_BFFPclinic_01_Rafael.ClsAppointments)">
+ <summary>
+      Function ModificaAppointments(ByVal pClsAppointments As ClsAppointments) Método para Modificar a TABELA Appointments
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsAppointments.GravaAppointments(PAP_G2_BFFPclinic_01_Rafael.ClsAppointments)">
+ <summary>
+      Function GravaAppointments(ByVal pNovoAppointments As ClsAppointments) Método para Gravar a TABELA Appointments
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsAppointments.ApagaAppointments(System.Int32)">
+ <summary>
+      Function ApagaAppointments(ByVal pUniqueID As Integer) Método para Apagar um Registo da Tabela Appointments
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos">
+ <summary>
+      Classe ClsArtigos Classe da Tabela Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos.GetArtigos">
+ <summary>
+      Function GetArtigos() Método para devolver a Lista de Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaArtigos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos.FiltrarArtigos(PAP_G2_BFFPclinic_01_Rafael.ClsArtigos)">
+ <summary>
+      Function FiltrarArtigos Método para Filtrar os campos da lista de Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaArtigos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos.GetArtigosByCod(System.String)">
+ <summary>
+      Function GetArtigosByCod(ByVal pCod_Artigo As String) Método para decolver uma Classe de Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mClsArtigos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos.ModificaArtigos(PAP_G2_BFFPclinic_01_Rafael.ClsArtigos)">
+ <summary>
+      Function ModificaArtigos(ByVal pClsArtigos As ClsArtigos) Método para Modificar a TABELA Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos.GravaArtigos(PAP_G2_BFFPclinic_01_Rafael.ClsArtigos)">
+ <summary>
+      Function GravaArtigos(ByVal pNovoArtigos As ClsArtigos) Método para Gravar a TABELA Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsArtigos.ApagaArtigos(System.String)">
+ <summary>
+      Function ApagaArtigos(ByVal pCod_Artigo As String) Método para Apagar um Registo da Tabela Artigos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ArtigosComparer">
+ <summary>
+      Classe ArtigosComparer 
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias">
+ <summary>
+      Classe ClsCategorias Classe da Tabela Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias.GetCategorias">
+ <summary>
+      Function GetCategorias() Método para devolver a Lista de Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      mListaCategorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias.FiltrarCategorias(PAP_G2_BFFPclinic_01_Rafael.ClsCategorias)">
+ <summary>
+      Function FiltrarCategorias Método para Filtrar os campos da lista de Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      mListaCategorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias.GetCategoriasByCod(System.String)">
+ <summary>
+      Function GetCategoriasByCod(ByVal pCod_Categoria As String) Método para decolver uma Classe de Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      mClsCategorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias.ModificaCategorias(PAP_G2_BFFPclinic_01_Rafael.ClsCategorias)">
+ <summary>
+      Function ModificaCategorias(ByVal pClsCategorias As ClsCategorias) Método para Modificar a TABELA Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias.GravaCategorias(PAP_G2_BFFPclinic_01_Rafael.ClsCategorias)">
+ <summary>
+      Function GravaCategorias(ByVal pNovoCategorias As ClsCategorias) Método para Gravar a TABELA Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCategorias.ApagaCategorias(System.String)">
+ <summary>
+      Function ApagaCategorias(ByVal pCod_Categoria As String) Método para Apagar um Registo da Tabela Categorias
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.CategoriasComparer">
+ <summary>
+      Classe CategoriasComparer 
+      Gerado em 31/01/2024 10:35:35
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos">
+ <summary>
+      Classe ClsConcelhos Classe da Tabela Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos.GetConcelhos">
+ <summary>
+      Function GetConcelhos() Método para devolver a Lista de Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaConcelhos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos.FiltrarConcelhos(PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos)">
+ <summary>
+      Function FiltrarConcelhos Método para Filtrar os campos da lista de Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaConcelhos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos.GetConcelhosByCod(System.String)">
+ <summary>
+      Function GetConcelhosByCod(ByVal pCod_Distrito As String) Método para decolver uma Classe de Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mClsConcelhos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos.ModificaConcelhos(PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos)">
+ <summary>
+      Function ModificaConcelhos(ByVal pClsConcelhos As ClsConcelhos) Método para Modificar a TABELA Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos.GravaConcelhos(PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos)">
+ <summary>
+      Function GravaConcelhos(ByVal pNovoConcelhos As ClsConcelhos) Método para Gravar a TABELA Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsConcelhos.ApagaConcelhos(System.String)">
+ <summary>
+      Function ApagaConcelhos(ByVal pCod_Distrito As String) Método para Apagar um Registo da Tabela Concelhos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ConcelhosComparer">
+ <summary>
+      Classe ConcelhosComparer 
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades">
+ <summary>
+      Classe ClsCP_Localidades Classe da Tabela CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades.GetCP_Localidades">
+ <summary>
+      Function GetCP_Localidades() Método para devolver a Lista de CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaCP_Localidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades.FiltrarCP_Localidades(PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades)">
+ <summary>
+      Function FiltrarCP_Localidades Método para Filtrar os campos da lista de CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaCP_Localidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades.GetCP_LocalidadesByCod(System.String)">
+ <summary>
+      Function GetCP_LocalidadesByCod(ByVal pCod_Postal As String) Método para decolver uma Classe de CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mClsCP_Localidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades.ModificaCP_Localidades(PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades)">
+ <summary>
+      Function ModificaCP_Localidades(ByVal pClsCP_Localidades As ClsCP_Localidades) Método para Modificar a TABELA CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades.GravaCP_Localidades(PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades)">
+ <summary>
+      Function GravaCP_Localidades(ByVal pNovoCP_Localidades As ClsCP_Localidades) Método para Gravar a TABELA CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsCP_Localidades.ApagaCP_Localidades(System.String)">
+ <summary>
+      Function ApagaCP_Localidades(ByVal pCod_Postal As String) Método para Apagar um Registo da Tabela CP_Localidades
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.CP_LocalidadesComparer">
+ <summary>
+      Classe CP_LocalidadesComparer 
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos">
+ <summary>
+      Classe ClsDistritos Classe da Tabela Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos.GetDistritos">
+ <summary>
+      Function GetDistritos() Método para devolver a Lista de Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaDistritos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos.FiltrarDistritos(PAP_G2_BFFPclinic_01_Rafael.ClsDistritos)">
+ <summary>
+      Function FiltrarDistritos Método para Filtrar os campos da lista de Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaDistritos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos.GetDistritosByCod(System.String)">
+ <summary>
+      Function GetDistritosByCod(ByVal pCod_Distrito As String) Método para decolver uma Classe de Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mClsDistritos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos.ModificaDistritos(PAP_G2_BFFPclinic_01_Rafael.ClsDistritos)">
+ <summary>
+      Function ModificaDistritos(ByVal pClsDistritos As ClsDistritos) Método para Modificar a TABELA Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos.GravaDistritos(PAP_G2_BFFPclinic_01_Rafael.ClsDistritos)">
+ <summary>
+      Function GravaDistritos(ByVal pNovoDistritos As ClsDistritos) Método para Gravar a TABELA Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDistritos.ApagaDistritos(System.String)">
+ <summary>
+      Function ApagaDistritos(ByVal pCod_Distrito As String) Método para Apagar um Registo da Tabela Distritos
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.DistritosComparer">
+ <summary>
+      Classe DistritosComparer 
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsDoc">
+ <summary>
+      Classe ClsDoc Classe da Tabela Doc
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDoc.GetDoc">
+ <summary>
+      Function GetDoc() Método para devolver a Lista de Doc
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mListaDoc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDoc.GetDocByCod(System.String)">
+ <summary>
+      Function GetDocByCod(ByVal pNum_Doc As String) Método para decolver uma Classe de Doc
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      mClsDoc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDoc.ModificaDoc(PAP_G2_BFFPclinic_01_Rafael.ClsDoc)">
+ <summary>
+      Function ModificaDoc(ByVal pClsDoc As ClsDoc) Método para Modificar a TABELA Doc
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsDoc.ApagaDoc(System.String)">
+ <summary>
+      Function ApagaDoc(ByVal pNum_Doc As String) Método para Apagar um Registo da Tabela Doc
+      Gerado em 20/03/2023 10:10:43
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas">
+ <summary>
+      Classe ClsEmpresas Classe da Tabela Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.GetContador(PAP_G2_BFFPclinic_01_Rafael.enCont)">
+ <summary>
+      Function GetContador (ByVal pEnum as Encont) - Método para devolver o contador específico guardado na Tabela Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      Contador guardado + 1
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.GravaContador(PAP_G2_BFFPclinic_01_Rafael.enCont)">
+ <summary>
+      Function GravaContador (ByVal pEnum as Encont) - Método para Gravar o Contador específico na Tabela Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      True ou False
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.GetEmpresas">
+ <summary>
+      Function GetEmpresas() Método para devolver a Lista de Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      mListaEmpresas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.FiltrarEmpresas(PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas)">
+ <summary>
+      Function FiltrarEmpresas Método para Filtrar os campos da lista de Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      mListaEmpresas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.GetEmpresasByCod(System.String)">
+ <summary>
+      Function GetEmpresasByCod(ByVal pCod_Empresa As String) Método para decolver uma Classe de Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      mClsEmpresas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.ModificaEmpresas(PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas)">
+ <summary>
+      Function ModificaEmpresas(ByVal pClsEmpresas As ClsEmpresas) Método para Modificar a TABELA Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.GravaEmpresas(PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas)">
+ <summary>
+      Function GravaEmpresas(ByVal pNovoEmpresas As ClsEmpresas) Método para Gravar a TABELA Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEmpresas.ApagaEmpresas(System.String)">
+ <summary>
+      Function ApagaEmpresas(ByVal pCod_Empresa As String) Método para Apagar um Registo da Tabela Empresas
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.EmpresasComparer">
+ <summary>
+      Classe EmpresasComparer 
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos">
+ <summary>
+      Classe ClsEnderecos Classe da Tabela Enderecos
+      Gerado em 06/01/2023 11:28:23
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos.GetEnderecos(System.String)">
+ <summary>
+ GetEnderecos -> para ser usado na classe GetEntidades
+ </summary>
+ <param name="pCod_Entidade"></param>
+ <returns></returns>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos.GetEnderecosByCod(System.String,System.String)">
+ <summary>
+      Function GetEnderecosByCod(ByVal pCod_Entidade As String) Método para decolver uma Classe de Enderecos
+      Gerado em 06/01/2023 11:28:23
+ </summary>
+ <returns>
+      mClsEnderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos.ModificaEnderecos(PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos)">
+ <summary>
+      Function ModificaEnderecos(ByVal pClsEnderecos As ClsEnderecos) Método para Modificar a TABELA Enderecos
+      Gerado em 06/01/2023 11:28:23
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos.GravaEnderecos(PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos)">
+ <summary>
+      Function GravaEnderecos(ByVal pNovoEnderecos As ClsEnderecos) Método para Gravar a TABELA Enderecos
+      Gerado em 06/01/2023 11:28:23
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEnderecos.ApagaEnderecos(System.String,System.String)">
+ <summary>
+      Function ApagaEnderecos(ByVal pCod_Entidade As String) Método para Apagar um Registo da Tabela Enderecos
+      Gerado em 06/01/2023 11:28:23
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.EnderecosComparer">
+ <summary>
+      Classe EnderecosComparer 
+      Gerado em 06/01/2023 11:28:23
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades">
+ <summary>
+      Classe ClsEntidades Classe da Tabela Entidades
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades.GetEntidades">
+ <summary>
+      Function GetEntidades() Método para devolver a Lista de Entidades
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      mListaEntidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+ 
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades.FiltrarEntidades(PAP_G2_BFFPclinic_01_Rafael.ClsEntidades)">
+ <summary>
+      Function FiltrarEntidades Método para Filtrar os campos da lista de Entidades
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      mListaEntidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades.GetEntidadesByCod(System.String)">
+ <summary>
+      Function GetEntidadesByCod(ByVal pCod_Entidade As String) Método para decolver uma Classe de Entidades
+      Gerado em 31/01/2024 10:35:36
+ </summary>
+ <returns>
+      mClsEntidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades.ModificaEntidades(PAP_G2_BFFPclinic_01_Rafael.ClsEntidades)">
+ <summary>
+      Function ModificaEntidades(ByVal pClsEntidades As ClsEntidades) Método para Modificar a TABELA Entidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades.GetEncont(System.String)">
+ <summary>
+      Function GravaEntidades(ByVal pNovoEntidades As ClsEntidades) Método para Gravar a TABELA Entidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+ 
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEntidades.ApagaEntidades(System.String)">
+ <summary>
+      Function ApagaEntidades(ByVal pCod_Entidade As String) Método para Apagar um Registo da Tabela Entidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.EntidadesComparer">
+ <summary>
+      Classe EntidadesComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades">
+ <summary>
+      Classe ClsEspecialidades Classe da Tabela Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades.GetEspecialidades">
+ <summary>
+      Function GetEspecialidades() Método para devolver a Lista de Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaEspecialidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades.FiltrarEspecialidades(PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades)">
+ <summary>
+      Function FiltrarEspecialidades Método para Filtrar os campos da lista de Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaEspecialidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades.GetEspecialidadesByCod(System.String)">
+ <summary>
+      Function GetEspecialidadesByCod(ByVal pCod_Especialidade As String) Método para decolver uma Classe de Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsEspecialidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades.ModificaEspecialidades(PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades)">
+ <summary>
+      Function ModificaEspecialidades(ByVal pClsEspecialidades As ClsEspecialidades) Método para Modificar a TABELA Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades.GravaEspecialidades(PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades)">
+ <summary>
+      Function GravaEspecialidades(ByVal pNovoEspecialidades As ClsEspecialidades) Método para Gravar a TABELA Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsEspecialidades.ApagaEspecialidades(System.String)">
+ <summary>
+      Function ApagaEspecialidades(ByVal pCod_Especialidade As String) Método para Apagar um Registo da Tabela Especialidades
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.EspecialidadesComparer">
+ <summary>
+      Classe EspecialidadesComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsIVA">
+ <summary>
+      Classe ClsIVA Classe da Tabela IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsIVA.GetIVA">
+ <summary>
+      Function GetIVA() Método para devolver a Lista de IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mListaIVA
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsIVA.FiltrarIVA(PAP_G2_BFFPclinic_01_Rafael.ClsIVA)">
+ <summary>
+      Function FiltrarIVA Método para Filtrar os campos da lista de IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mListaIVA
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsIVA.GetIVAByTipo(System.String)">
+ <summary>
+      Function GetIVAByCod(ByVal pCod_IVA As String) Método para decolver uma Classe de IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mClsIVA
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsIVA.ModificaIVA(PAP_G2_BFFPclinic_01_Rafael.ClsIVA)">
+ <summary>
+      Function ModificaIVA(ByVal pClsIVA As ClsIVA) Método para Modificar a TABELA IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsIVA.GravaIVA(PAP_G2_BFFPclinic_01_Rafael.ClsIVA)">
+ <summary>
+      Function GravaIVA(ByVal pNovoIVA As ClsIVA) Método para Gravar a TABELA IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsIVA.ApagaIVA(System.String)">
+ <summary>
+      Function ApagaIVA(ByVal pCod_IVA As String) Método para Apagar um Registo da Tabela IVA
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.IVAComparer">
+ <summary>
+      Classe IVAComparer 
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsLabels">
+ <summary>
+      Classe ClsLabels Classe da Tabela Labels
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLabels.GetLabels">
+ <summary>
+      Function GetLabels() Método para devolver a Lista de Labels
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaLabels
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLabels.GetLabelsByCod(System.Int32)">
+ <summary>
+      Function GetLabelsByCod(ByVal pLabel_ID As Integer) Método para decolver uma Classe de Labels
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsLabels
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLabels.ModificaLabels(PAP_G2_BFFPclinic_01_Rafael.ClsLabels)">
+ <summary>
+      Function ModificaLabels(ByVal pClsLabels As ClsLabels) Método para Modificar a TABELA Labels
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLabels.GravaLabels(PAP_G2_BFFPclinic_01_Rafael.ClsLabels)">
+ <summary>
+      Function GravaLabels(ByVal pNovoLabels As ClsLabels) Método para Gravar a TABELA Labels
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLabels.ApagaLabels(System.Int32)">
+ <summary>
+      Function ApagaLabels(ByVal pLabel_ID As Integer) Método para Apagar um Registo da Tabela Labels
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas">
+ <summary>
+      Classe ClsLinhas Classe da Tabela Linhas
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,PAP_G2_BFFPclinic_01_Rafael.ViewArt)">
+ <summary>
+ AFTER ARTIGO
+ </summary>
+ <param name="pNum_Doc"></param>
+ <param name="pLinha"></param>
+ <param name="pQTD"></param>
+ <param name="pDSC"></param>
+ <param name="pArtigo"></param>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas.#ctor(System.String,System.Int32,System.Int32,System.Decimal,System.Int32,System.Int32,PAP_G2_BFFPclinic_01_Rafael.ViewArt)">
+ <summary>
+ AFTER_QTD, PRECO E DSC
+ </summary>
+ <param name="pNum_Doc"></param>
+ <param name="pLinha"></param>
+ <param name="pQTD"></param>
+ <param name="pPreco"></param>
+ <param name="pDSC"></param>
+ <param name="pArtigo"></param>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas.GetLinhas">
+ <summary>
+      Function GetLinhas() Método para devolver a Lista de Linhas
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mListaLinhas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas.GetLinhasByCod(System.String)">
+ <summary>
+      Function GetLinhasByCod(ByVal pNum_Doc As String) Método para decolver uma Classe de Linhas
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mClsLinhas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas.ModificaLinhas(PAP_G2_BFFPclinic_01_Rafael.ClsLinhas)">
+ <summary>
+      Function ModificaLinhas(ByVal pClsLinhas As ClsLinhas) Método para Modificar a TABELA Linhas
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas.ApagaLinhas(System.String)">
+ <summary>
+      Function ApagaLinhas(ByVal pNum_Doc As String) Método para Apagar um Registo da Tabela Linhas
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita">
+ <summary>
+      Classe ClsLinhas_Receita Classe da Tabela Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita.GetLinhas_Receita">
+ <summary>
+      Function GetLinhas_Receita() Método para devolver a Lista de Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaLinhas_Receita
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita.FiltrarLinhas_Receita(PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita)">
+ <summary>
+      Function FiltrarLinhas_Receita Método para Filtrar os campos da lista de Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaLinhas_Receita
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita.GetLinhas_ReceitaByCod(System.String)">
+ <summary>
+      Function GetLinhas_ReceitaByCod(ByVal pCod_Medicamento As String) Método para decolver uma Classe de Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsLinhas_Receita
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita.ModificaLinhas_Receita(PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita)">
+ <summary>
+      Function ModificaLinhas_Receita(ByVal pClsLinhas_Receita As ClsLinhas_Receita) Método para Modificar a TABELA Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita.GravaLinhas_Receita(PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita)">
+ <summary>
+      Function GravaLinhas_Receita(ByVal pNovoLinhas_Receita As ClsLinhas_Receita) Método para Gravar a TABELA Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsLinhas_Receita.ApagaLinhas_Receita(System.String)">
+ <summary>
+      Function ApagaLinhas_Receita(ByVal pCod_Medicamento As String) Método para Apagar um Registo da Tabela Linhas_Receita
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.Linhas_ReceitaComparer">
+ <summary>
+      Classe Linhas_ReceitaComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes">
+ <summary>
+      Classe ClsMarcacoes Classe da Tabela Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes.GetMarcacoes">
+ <summary>
+      Function GetMarcacoes() Método para devolver a Lista de Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaMarcacoes
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes.FiltrarMarcacoes(PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes)">
+ <summary>
+      Function FiltrarMarcacoes Método para Filtrar os campos da lista de Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaMarcacoes
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes.GetMarcacoesByCod(System.String)">
+ <summary>
+      Function GetMarcacoesByCod(ByVal pCod_Marcacao As String) Método para decolver uma Classe de Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsMarcacoes
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes.ModificaMarcacoes(PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes)">
+ <summary>
+      Function ModificaMarcacoes(ByVal pClsMarcacoes As ClsMarcacoes) Método para Modificar a TABELA Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes.GravaMarcacoes(PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes)">
+ <summary>
+      Function GravaMarcacoes(ByVal pNovoMarcacoes As ClsMarcacoes) Método para Gravar a TABELA Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsMarcacoes.ApagaMarcacoes(System.String)">
+ <summary>
+      Function ApagaMarcacoes(ByVal pCod_Marcacao As String) Método para Apagar um Registo da Tabela Marcacoes
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.MarcacoesComparer">
+ <summary>
+      Classe MarcacoesComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsPaises">
+ <summary>
+      Classe ClsPaises Classe da Tabela Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPaises.GetPaises">
+ <summary>
+      Function GetPaises() Método para devolver a Lista de Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaPaises
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPaises.FiltrarPaises(PAP_G2_BFFPclinic_01_Rafael.ClsPaises)">
+ <summary>
+      Function FiltrarPaises Método para Filtrar os campos da lista de Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaPaises
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPaises.GetPaisesByCod(System.String)">
+ <summary>
+      Function GetPaisesByCod(ByVal pCod_Pais As String) Método para decolver uma Classe de Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsPaises
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPaises.ModificaPaises(PAP_G2_BFFPclinic_01_Rafael.ClsPaises)">
+ <summary>
+      Function ModificaPaises(ByVal pClsPaises As ClsPaises) Método para Modificar a TABELA Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPaises.GravaPaises(PAP_G2_BFFPclinic_01_Rafael.ClsPaises)">
+ <summary>
+      Function GravaPaises(ByVal pNovoPaises As ClsPaises) Método para Gravar a TABELA Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPaises.ApagaPaises(System.String)">
+ <summary>
+      Function ApagaPaises(ByVal pCod_Pais As String) Método para Apagar um Registo da Tabela Paises
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.PaisesComparer">
+ <summary>
+      Classe PaisesComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos">
+ <summary>
+      Classe ClsPT_Enderecos Classe da Tabela PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos.GetPT_Enderecos">
+ <summary>
+      Function GetPT_Enderecos() Método para devolver a Lista de PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <returns>
+      mListaPT_Enderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos.FiltrarPT_Enderecos(PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos)">
+ <summary>
+      Function FiltrarPT_Enderecos Método para Filtrar os campos da lista de PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <returns>
+      mListaPT_Enderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos.GetPT_EnderecosByCod(System.String)">
+ <summary>
+      Function GetPT_EnderecosByCod(ByVal pCod_Distrito As String) Método para decolver uma Classe de PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <returns>
+      mClsPT_Enderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos.ModificaPT_Enderecos(PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos)">
+ <summary>
+      Function ModificaPT_Enderecos(ByVal pClsPT_Enderecos As ClsPT_Enderecos) Método para Modificar a TABELA PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos.GravaPT_Enderecos(PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos)">
+ <summary>
+      Function GravaPT_Enderecos(ByVal pNovoPT_Enderecos As ClsPT_Enderecos) Método para Gravar a TABELA PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsPT_Enderecos.ApagaPT_Enderecos(System.String)">
+ <summary>
+      Function ApagaPT_Enderecos(ByVal pCod_Distrito As String) Método para Apagar um Registo da Tabela PT_Enderecos
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.PT_EnderecosComparer">
+ <summary>
+      Classe PT_EnderecosComparer 
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas">
+ <summary>
+      Classe ClsReceitas Classe da Tabela Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas.GetReceitas">
+ <summary>
+      Function GetReceitas() Método para devolver a Lista de Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaReceitas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas.FiltrarReceitas(PAP_G2_BFFPclinic_01_Rafael.ClsReceitas)">
+ <summary>
+      Function FiltrarReceitas Método para Filtrar os campos da lista de Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaReceitas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas.GetReceitasByCod(System.String)">
+ <summary>
+      Function GetReceitasByCod(ByVal pCod_Receita As String) Método para decolver uma Classe de Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsReceitas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas.ModificaReceitas(PAP_G2_BFFPclinic_01_Rafael.ClsReceitas)">
+ <summary>
+      Function ModificaReceitas(ByVal pClsReceitas As ClsReceitas) Método para Modificar a TABELA Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas.GravaReceitas(PAP_G2_BFFPclinic_01_Rafael.ClsReceitas)">
+ <summary>
+      Function GravaReceitas(ByVal pNovoReceitas As ClsReceitas) Método para Gravar a TABELA Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsReceitas.ApagaReceitas(System.String)">
+ <summary>
+      Function ApagaReceitas(ByVal pCod_Receita As String) Método para Apagar um Registo da Tabela Receitas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ReceitasComparer">
+ <summary>
+      Classe ReceitasComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos">
+ <summary>
+      Classe ClsRegiao_Enderecos Classe da Tabela Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos.GetRegiao_Enderecos">
+ <summary>
+      Function GetRegiao_Enderecos() Método para devolver a Lista de Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaRegiao_Enderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos.FiltrarRegiao_Enderecos(PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos)">
+ <summary>
+      Function FiltrarRegiao_Enderecos Método para Filtrar os campos da lista de Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaRegiao_Enderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos.GetRegiao_EnderecosByCod(System.String)">
+ <summary>
+      Function GetRegiao_EnderecosByCod(ByVal pCod_Distrito As String) Método para decolver uma Classe de Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsRegiao_Enderecos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos.ModificaRegiao_Enderecos(PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos)">
+ <summary>
+      Function ModificaRegiao_Enderecos(ByVal pClsRegiao_Enderecos As ClsRegiao_Enderecos) Método para Modificar a TABELA Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos.GravaRegiao_Enderecos(PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos)">
+ <summary>
+      Function GravaRegiao_Enderecos(ByVal pNovoRegiao_Enderecos As ClsRegiao_Enderecos) Método para Gravar a TABELA Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsRegiao_Enderecos.ApagaRegiao_Enderecos(System.String)">
+ <summary>
+      Function ApagaRegiao_Enderecos(ByVal pCod_Distrito As String) Método para Apagar um Registo da Tabela Regiao_Enderecos
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.Regiao_EnderecosComparer">
+ <summary>
+      Classe Regiao_EnderecosComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsSalas">
+ <summary>
+      Classe ClsSalas Classe da Tabela Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSalas.GetSalas">
+ <summary>
+      Function GetSalas() Método para devolver a Lista de Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaSalas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSalas.FiltrarSalas(PAP_G2_BFFPclinic_01_Rafael.ClsSalas)">
+ <summary>
+      Function FiltrarSalas Método para Filtrar os campos da lista de Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mListaSalas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSalas.GetSalasByCod(System.String)">
+ <summary>
+      Function GetSalasByCod(ByVal pCod_Sala As String) Método para decolver uma Classe de Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      mClsSalas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSalas.ModificaSalas(PAP_G2_BFFPclinic_01_Rafael.ClsSalas)">
+ <summary>
+      Function ModificaSalas(ByVal pClsSalas As ClsSalas) Método para Modificar a TABELA Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSalas.GravaSalas(PAP_G2_BFFPclinic_01_Rafael.ClsSalas)">
+ <summary>
+      Function GravaSalas(ByVal pNovoSalas As ClsSalas) Método para Gravar a TABELA Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSalas.ApagaSalas(System.String)">
+ <summary>
+      Function ApagaSalas(ByVal pCod_Sala As String) Método para Apagar um Registo da Tabela Salas
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.SalasComparer">
+ <summary>
+      Classe SalasComparer 
+      Gerado em 31/01/2024 10:35:37
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsSeries">
+ <summary>
+      Classe ClsSeries Classe da Tabela Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSeries.GetSeries">
+ <summary>
+      Function GetSeries() Método para devolver a Lista de Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaSeries
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>~ª_
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSeries.FiltrarSeries(PAP_G2_BFFPclinic_01_Rafael.ClsSeries)">
+ <summary>
+      Function FiltrarSeries Método para Filtrar os campos da lista de Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaSeries
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSeries.GetSeriesByCod(System.String)">
+ <summary>
+      Function GetSeriesByCod(ByVal pCod_Serie As String) Método para decolver uma Classe de Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mClsSeries
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSeries.ModificaSeries(PAP_G2_BFFPclinic_01_Rafael.ClsSeries)">
+ <summary>
+      Function ModificaSeries(ByVal pClsSeries As ClsSeries) Método para Modificar a TABELA Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSeries.GravaSeries(PAP_G2_BFFPclinic_01_Rafael.ClsSeries)">
+ <summary>
+      Function GravaSeries(ByVal pNovoSeries As ClsSeries) Método para Gravar a TABELA Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsSeries.ApagaSeries(System.String)">
+ <summary>
+      Function ApagaSeries(ByVal pCod_Serie As String) Método para Apagar um Registo da Tabela Series
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.SeriesComparer">
+ <summary>
+      Classe SeriesComparer 
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsStatuses">
+ <summary>
+      Classe ClsStatuses Classe da Tabela Statuses
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsStatuses.GetStatuses">
+ <summary>
+      Function GetStatuses() Método para devolver a Lista de Statuses
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaStatuses
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsStatuses.GetStatusesByCod(System.Int32)">
+ <summary>
+      Function GetStatusesByCod(ByVal pStatus_Nome As String) Método para decolver uma Classe de Statuses
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mClsStatuses
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsStatuses.ModificaStatuses(PAP_G2_BFFPclinic_01_Rafael.ClsStatuses)">
+ <summary>
+      Function ModificaStatuses(ByVal pClsStatuses As ClsStatuses) Método para Modificar a TABELA Statuses
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsStatuses.GravaStatuses(PAP_G2_BFFPclinic_01_Rafael.ClsStatuses)">
+ <summary>
+      Function GravaStatuses(ByVal pNovoStatuses As ClsStatuses) Método para Gravar a TABELA Statuses
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsStatuses.ApagaStatuses(System.String)">
+ <summary>
+      Function ApagaStatuses(ByVal pStatus_Nome As String) Método para Apagar um Registo da Tabela Statuses
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc">
+ <summary>
+      Classe ClsTipos_Doc Classe da Tabela Tipos_Doc
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc.GetTipos_Doc">
+ <summary>
+      Function GetTipos_Doc() Método para devolver a Lista de Tipos_Doc
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mListaTipos_Doc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc.GetTipos_DocByCod(System.String)">
+ <summary>
+      Function GetTipos_DocByCod(ByVal pFLG_Tipo_Doc As String) Método para decolver uma Classe de Tipos_Doc
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      mClsTipos_Doc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc.ModificaTipos_Doc(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc)">
+ <summary>
+      Function ModificaTipos_Doc(ByVal pClsTipos_Doc As ClsTipos_Doc) Método para Modificar a TABELA Tipos_Doc
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc.GravaTipos_Doc(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc)">
+ <summary>
+      Function GravaTipos_Doc(ByVal pNovoTipos_Doc As ClsTipos_Doc) Método para Gravar a TABELA Tipos_Doc
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Doc.ApagaTipos_Doc(System.String)">
+ <summary>
+      Function ApagaTipos_Doc(ByVal pFLG_Tipo_Doc As String) Método para Apagar um Registo da Tabela Tipos_Doc
+      Gerado em 20/03/2023 10:10:44
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao">
+ <summary>
+      Classe ClsTipos_Marcacao Classe da Tabela Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao.GetTipos_Marcacao">
+ <summary>
+      Function GetTipos_Marcacao() Método para devolver a Lista de Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaTipos_Marcacao
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao.FiltrarTipos_Marcacao(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao)">
+ <summary>
+      Function FiltrarTipos_Marcacao Método para Filtrar os campos da lista de Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaTipos_Marcacao
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao.GetTipos_MarcacaoByCod(System.String)">
+ <summary>
+      Function GetTipos_MarcacaoByCod(ByVal pCod_Tipo_Marcacao As String) Método para decolver uma Classe de Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mClsTipos_Marcacao
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao.ModificaTipos_Marcacao(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao)">
+ <summary>
+      Function ModificaTipos_Marcacao(ByVal pClsTipos_Marcacao As ClsTipos_Marcacao) Método para Modificar a TABELA Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao.GravaTipos_Marcacao(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao)">
+ <summary>
+      Function GravaTipos_Marcacao(ByVal pNovoTipos_Marcacao As ClsTipos_Marcacao) Método para Gravar a TABELA Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Marcacao.ApagaTipos_Marcacao(System.String)">
+ <summary>
+      Function ApagaTipos_Marcacao(ByVal pCod_Tipo_Marcacao As String) Método para Apagar um Registo da Tabela Tipos_Marcacao
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.Tipos_MarcacaoComparer">
+ <summary>
+      Classe Tipos_MarcacaoComparer 
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento">
+ <summary>
+      Classe ClsTipos_Pagamento Classe da Tabela Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento.GetTipos_Pagamento">
+ <summary>
+      Function GetTipos_Pagamento() Método para devolver a Lista de Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaTipos_Pagamento
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento.FiltrarTipos_Pagamento(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento)">
+ <summary>
+      Function FiltrarTipos_Pagamento Método para Filtrar os campos da lista de Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mListaTipos_Pagamento
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento.GetTipos_PagamentoByCod(System.String)">
+ <summary>
+      Function GetTipos_PagamentoByCod(ByVal pCod_Tipo_Pagamento As String) Método para decolver uma Classe de Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      mClsTipos_Pagamento
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento.ModificaTipos_Pagamento(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento)">
+ <summary>
+      Function ModificaTipos_Pagamento(ByVal pClsTipos_Pagamento As ClsTipos_Pagamento) Método para Modificar a TABELA Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento.GravaTipos_Pagamento(PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento)">
+ <summary>
+      Function GravaTipos_Pagamento(ByVal pNovoTipos_Pagamento As ClsTipos_Pagamento) Método para Gravar a TABELA Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.ClsTipos_Pagamento.ApagaTipos_Pagamento(System.String)">
+ <summary>
+      Function ApagaTipos_Pagamento(ByVal pCod_Tipo_Pagamento As String) Método para Apagar um Registo da Tabela Tipos_Pagamento
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.Tipos_PagamentoComparer">
+ <summary>
+      Classe Tipos_PagamentoComparer 
+      Gerado em 31/01/2024 10:35:38
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2024
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.frmEntidades">
+ <summary>
+      Classe frmEntidades- Form da Tabela de Entidades
+      Gerado em 06/01/2023 11:28:24
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2023
+ </remarks>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet.MedicosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet.MedicosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet.MedicosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.MedicosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.UpdateAll(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1.Tipos_MarcacaoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1.Tipos_MarcacaoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1.Tipos_MarcacaoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.Tipos_MarcacaoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.UpdateAll(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2.EnderecosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2.EnderecosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2.EnderecosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.EnderecosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.UpdateAll(PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PAP_G2_BFFPclinic_01_Rafael.I21_G2DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
